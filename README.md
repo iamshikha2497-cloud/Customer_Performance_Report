@@ -1,5 +1,7 @@
 # Customer_Performance_Report
 
+End-to-end analytics project focused on customer, sales, and financial performance. Features P&L reporting, KPI tracking, and data modeling using ETL, Power Query, and DAX.
+
 ## Sales Report :
 
 
